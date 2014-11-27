@@ -1,0 +1,6 @@
+[C:\Users\grace\Desktop\2014-2015\Z-Summer\Z-Breaking Barriers Hackathon\Breaking-Barriers-GameFinal\_error.log.txt]
+Exception: Null pointer access
+  Callstack:
+    void onSceneLoad() (main.angelscript, 78)
+
+

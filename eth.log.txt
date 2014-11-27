@@ -1,0 +1,72 @@
+[C:\Users\grace\Desktop\2014-2015\Z-Summer\Z-Breaking Barriers Hackathon\Breaking-Barriers-GameFinal\eth.log.txt]
+Backbuffer created as 720, 480 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+[INFO ] main.angelscript, line 76: Compiling void onSceneLoad()
+
+[WARN ] main.angelscript, line 87: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 92: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 121: Compiling void ETHCallback_robot(ETHEntity@)
+
+[WARN ] main.angelscript, line 149: The operand is implicitly converted to handle in order to compare them
+
+[INFO ] main.angelscript, line 557: Compiling void ETHCallback_enemy_bullet(ETHEntity@)
+
+[WARN ] main.angelscript, line 565: Signed/Unsigned mismatch
+
+[INFO ] main.angelscript, line 577: Compiling void ETHCallback_robot_bullet(ETHEntity@)
+
+[WARN ] main.angelscript, line 590: Signed/Unsigned mismatch
+
+Compile time: 78 milliseconds
+(Loaded) title_1.png
+(Loaded) mus.mp3
+(Loaded) floor.png
+(Loaded) robot_treads_standing_1.png
+(Loaded) crate_1.png
+(Loaded) mario-background-35580-hd-wallpapers.png
+Exception: Null pointer access
+  Callstack:
+    void onSceneLoad() (main.angelscript, 78)
+
+
+(Loaded) robot_treads_standing_2.png
+test
+(Loaded) robot_punch.png
+(Loaded) knowledge_1.png
+(Loaded) knowledge barrier.png
+test
+test
+test
+test
+(Loaded) language_1.png
+(Loaded) language barrier.png
+test
+test
+test
+test
+(Loaded) technology_1.png
+(Loaded) technology barrier.png
+test
+test
+test
+test
+(Loaded) communication_1.png
+(Loaded) communication barrier.png
+test
+test
+test
+test
+test
+test
+(Loaded) physical_1.png
+(Loaded) physical barrier.png
+test
+test
+test
+test
+(Loaded) GameOver.png

@@ -1,0 +1,11 @@
+[C:\Users\grace\Desktop\2014-2015\Z-Summer\Z-Breaking Barriers Hackathon\Breaking-Barriers-GameFinal\_warning.log.txt]
+
+[WARN ] main.angelscript, line 87: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 92: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 149: The operand is implicitly converted to handle in order to compare them
+
+[WARN ] main.angelscript, line 565: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 590: Signed/Unsigned mismatch

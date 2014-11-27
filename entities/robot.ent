@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="1" friction="1" density="1" restitution="0" gravityScale="1" applyLight="1" specularPower="50" specularBrightness="1" castShadow="0" type="0" static="0" blendMode="0">
+        <Sprite>robot_treads_standing_1.png</Sprite>
+        <Particles />
+        <Light active="1" static="0" castShadows="0" range="150" haloBrightness="1" haloSize="64">
+            <Position x="0" y="0" z="-2" />
+            <Color r="1" g="1" b="1" />
+        </Light>
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="40" y="60" z="1" />
+        </Collision>
+        <CustomData>
+            <Variable>
+                <Type>int</Type>
+                <Name>dx</Name>
+                <Value>0</Value>
+            </Variable>
+            <Variable>
+                <Type>int</Type>
+                <Name>dy</Name>
+                <Value>-1</Value>
+            </Variable>
+        </CustomData>
+    </Entity>
+</Ethanon>
